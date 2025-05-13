@@ -1,22 +1,22 @@
-# [Your Project Title Here]
+# Structural transformation: Analysis of historical data
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+[https://github.com/kielbjoern/structural_transformation](https://github.com/kielbjoern/structural_transformation)
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+Many years ago, I analyzed historical data on the structural transformation of employment in Schleswig-Holstein based on cohorts (birth years). The data comes from the official statistics (1882–1939). The focus was, how the shift from an agricultural to a service-based society took place. Did this structural change occur primarily through the emergence of new generations (cohorts) entering modern sectors, or mainly through shifts within individual employment biographies? That is the question. When I first analyzed the data, I didn’t have AI :wink: . Now I plan to reanalyze the data using TensorFlow. I hope this will be worthwhile — but I’m not sure yet… I will see..
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+[Clustering]
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
+- **Best Model:** [under construction]
+- **Evaluation Metric:** [under construction]
+- **Result:** [under construction]
 
 ## Documentation
 
