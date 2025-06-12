@@ -6,6 +6,8 @@
 
 - **And I have to calculate the average shift for each birth year between the censuses. I used 'calculate of the average shift.ipynb' for this.**
 
+- **I made a second attempt for the data analysis with the aggregated data ('exploratory_data_analysis - part two.ipynb').**
+
 - **The share of the primary sector shows a much wider range across generations than the other two sectors.**
 
 - **There are no biases.**
