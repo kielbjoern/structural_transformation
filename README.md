@@ -13,6 +13,7 @@ Many years ago, I analyzed historical data on the structural transformation of e
 - **Best Model:** is the Baseline model ;-(
 - **Evaluation Metric:** MSE Loss and MAE
 - **Result:** It was possible to use the model to create a comparative model for the strength of sectoral transformation in Schleswig-Holstein. And it was possible to determine the difference between the historical and the expected development for the individual datasets (cohort and census year). This enables statements about the transformation in Schleswig-Holstein: where it was particularly strong, where rather weak (see presentation for details).
+- **Result file:** The file sh_output.csv contains the generated data for the Germany and SH, which can be further analyzed and processed – but not today.
 
 ## Documentation
 
