@@ -6,25 +6,21 @@
 
 ## Description
 
-Many years ago, I analyzed historical data on the structural transformation of employment in Schleswig-Holstein based on cohorts (birth years). The data comes from the official statistics (1882–1939). The focus was, how the shift from an agricultural to a service-based society took place. Did this structural change occur primarily through the emergence of new generations (cohorts) entering modern sectors, or mainly through shifts within individual employment biographies? That is the question. When I first analyzed the data, I didn’t have AI :wink: . Now I plan to reanalyze the data using TensorFlow. I hope this will be worthwhile — but I’m not sure yet… I will see..
-
-### Task Type
-
-[Clustering]
+Many years ago, I analyzed historical data on the structural transformation of employment in Schleswig-Holstein based on cohorts (birth years). The data comes from the official statistics (1882–1939). The focus was, how the shift from an agricultural to a service-based society took place. During which periods, and for which cohorts, was the employment transformation in Schleswig-Holstein (SH) particularly pronounced? Conversely, when was this transformation relatively weak? Due to the uniqueness of this historical event, establishing a benchmark is challenging. I therefore propose using the employment trends from the German Empire (Deutsches Reich) as a comparative template for Schleswig-Holstein.
 
 ### Results Summary
 
-- **Best Model:** [under construction]
-- **Evaluation Metric:** [under construction]
-- **Result:** [under construction]
+- **Best Model: is the Baseline model ;-(**
+- **Evaluation Metric: MSE Loss and MAE**
+- **Result: It was possible to use the model to create a comparative model for the strength of sectoral transformation in Schleswig-Holstein. And it was possible to determine the difference between the historical and the expected development for the individual datasets (cohort and census year). This enables statements about the transformation in Schleswig-Holstein: where it was particularly strong, where rather weak (see presentation for details).**
 
 ## Documentation
 
 1. **[Literature Review](0_LiteratureReview/README.md)**
-2. **[Dataset Characteristics](1_DatasetCharacteristics/exploratory_data_analysis.ipynb)**
+2. **[Dataset Characteristics](1_DatasetCharacteristics/03_exploratory_data_analysis.ipynb)**
 3. **[Baseline Model](2_BaselineModel/baseline_model.ipynb)**
 4. **[Model Definition and Evaluation](3_Model/model_definition_evaluation)**
-5. **[Presentation](4_Presentation/README.md)**
+5. **[Presentation](4_Presentation/Historical_Employment_Transformation.pptx)**
 
 ## Cover Image
 
